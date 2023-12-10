@@ -1,11 +1,9 @@
---[[ info
 
-Script made by Auria and GNamimates
 
-features:
-stacking - placing plushie on top of another plushie makes it bigger
-snap to floor - placing plushie above blocks like carpet, cauldron, slab will make plushie snap to floor
-sit on stairs - makes plushie sit on stairs 
+--features:
+--stacking - placing plushie on top of another plushie makes it bigger
+--snap to floor - placing plushie above blocks like carpet, cauldron, slab will make plushie snap to floor
+--sit on stairs - makes plushie sit on stairs 
 
 there might be issues with stacking if pivot point of model group is not at 0 0 0
 
