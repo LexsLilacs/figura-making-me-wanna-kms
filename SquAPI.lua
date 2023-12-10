@@ -1,33 +1,4 @@
 
---███████╗ ██████╗ ██╗   ██╗██╗███████╗██╗  ██╗██╗   ██╗███████╗     █████╗ ██████╗ ██╗
---██╔════╝██╔═══██╗██║   ██║██║██╔════╝██║  ██║╚██╗ ██╔╝██╔════╝    ██╔══██╗██╔══██╗██║
---███████╗██║   ██║██║   ██║██║███████╗███████║ ╚████╔╝ ███████╗    ███████║██████╔╝██║
---╚════██║██║▄▄ ██║██║   ██║██║╚════██║██╔══██║  ╚██╔╝  ╚════██║    ██╔══██║██╔═══╝ ██║
---███████║╚██████╔╝╚██████╔╝██║███████║██║  ██║   ██║   ███████║    ██║  ██║██║     ██║
---╚══════╝ ╚══▀▀═╝  ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝    ╚═╝  ╚═╝╚═╝     ╚═╝
-----------------------------------------------------------------------------------------
-
--- Author: Squishy
--- Discord tag: mrsirsquishy
-
--- Version: 0.2.0
--- Legal: Do not Redistribute without explicit permission.
-
--- IMPORTANT FOR NEW USERS!!! READ THIS!!!
-
--- Thank you for using SquAPI! Unless you're experienced and wish to actually modify the functionality
--- of this script, I wouldn't reccomend snooping around. 
--- Don't know exactly what you're doing? This site should explain everything!(also linked on github):
--- https://mrsirsquishy.notion.site/Squishy-API-Guide-3e72692e93a248b5bd88353c96d8e6c5
-
--- This file does have some mini-documentation on paramaters if you need like a quick reference, but
--- do not modify, and do not copy-paste code from this file unless you are an avid scripter who knows what they are doing.
-
-
--- Don't be afraid to ask me for help, be afraid of not giving me enough info to help
-
-
-
 
 local squapi = {}
 
