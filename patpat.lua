@@ -306,5 +306,4 @@ function events.tick()
    end
 end
 
--- return, made by Auria
 return eventsList
