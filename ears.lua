@@ -68,4 +68,4 @@ function events.render(delta)
     config.rightEar:setRot(defaultRightEarRot + currentRot.x_z - currentRot._yw)
 end
 
-return config -- by Auria <3
+return config 
